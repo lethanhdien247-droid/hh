@@ -1,0 +1,8 @@
+{
+    "id": "caco3_hcl",
+    "name": "CaCO3 + HCl",
+    "category": "Muối + axit",
+    "description": "Đá vôi (Canxi cacbonat) tác dụng với axit clohidric tạo ra hiện tượng sủi bọt khí mạnh.",
+    "equation": "CaCO3 + 2HCl -> CaCl2 + CO2 + H2O",
+    "available": true
+}
