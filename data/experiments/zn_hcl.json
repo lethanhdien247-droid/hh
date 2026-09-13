@@ -1,0 +1,8 @@
+{
+    "id": "zn_hcl",
+    "name": "Zn + HCl",
+    "category": "Kim loại + axit",
+    "description": "Kẽm tác dụng với axit clohiđric.",
+    "equation": "Zn + 2HCl → ZnCl₂ + H₂",
+    "available": true
+}
