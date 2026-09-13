@@ -1,0 +1,8 @@
+{
+    "id": "na_h2o",
+    "name": "Na + H2O",
+    "category": "Kim loại kiềm + nước",
+    "description": "Natri phản ứng mãnh liệt với nước, viên kim loại vo tròn, chạy vòng quanh mặt nước và có khí thoát ra.",
+    "equation": "2Na + 2H2O -> 2NaOH + H2",
+    "available": true
+}
