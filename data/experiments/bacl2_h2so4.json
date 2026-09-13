@@ -1,0 +1,8 @@
+{
+    "id": "bacl2_h2so4",
+    "name": "BaCl2 + H2SO4",
+    "category": "Phản ứng tạo kết tủa",
+    "description": "Dung dịch Bari clorua tác dụng với axit sunfuric tạo ra kết tủa trắng BaSO4 không tan trong axit.",
+    "equation": "BaCl2 + H2SO4 -> BaSO4 + 2HCl",
+    "available": true
+}
