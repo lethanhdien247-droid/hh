@@ -1,0 +1,8 @@
+{
+    "id": "fe_hcl",
+    "name": "Fe + HCl",
+    "category": "Kim loại + axit",
+    "description": "Sắt tác dụng với dung dịch axit clohidric tạo ra khí hydro.",
+    "equation": "Fe + 2HCl -> FeCl2 + H2",
+    "available": true
+}
