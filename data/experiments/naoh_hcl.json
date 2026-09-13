@@ -1,0 +1,8 @@
+{
+    "id": "naoh_hcl",
+    "name": "NaOH + HCl",
+    "category": "Phản ứng trung hòa",
+    "description": "Phản ứng trung hòa giữa bazơ mạnh và axit mạnh, tỏa nhiệt.",
+    "equation": "NaOH + HCl -> NaCl + H2O",
+    "available": true
+}
