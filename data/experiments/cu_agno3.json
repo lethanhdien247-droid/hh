@@ -1,0 +1,8 @@
+{
+    "id": "cu_agno3",
+    "name": "Cu + AgNO3",
+    "category": "Kim loại đẩy kim loại",
+    "description": "Đồng đẩy bạc ra khỏi dung dịch muối, có lớp bạc trắng sáng bám ngoài dây đồng, dung dịch chuyển dần sang màu xanh lam.",
+    "equation": "Cu + 2AgNO3 -> Cu(NO3)2 + 2Ag",
+    "available": true
+}
