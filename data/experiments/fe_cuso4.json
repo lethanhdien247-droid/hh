@@ -1,0 +1,8 @@
+{
+    "id": "fe_cuso4",
+    "name": "Fe + CuSO4",
+    "category": "Kim loại đẩy kim loại",
+    "description": "Sắt đẩy đồng ra khỏi dung dịch muối, có lớp đồng đỏ bám ngoài đinh sắt.",
+    "equation": "Fe + CuSO4 -> FeSO4 + Cu",
+    "available": true
+}
