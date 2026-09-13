@@ -1,0 +1,8 @@
+{
+    "id": "cuso4_naoh",
+    "name": "CuSO4 + NaOH",
+    "category": "Phản ứng trao đổi",
+    "description": "Dung dịch muối Đồng (II) sunfat tác dụng với Kiềm tạo ra kết tủa xanh lam.",
+    "equation": "CuSO4 + 2NaOH -> Cu(OH)2 + Na2SO4",
+    "available": true
+}
