@@ -1,0 +1,8 @@
+{
+    "id": "agno3_nacl",
+    "name": "AgNO3 + NaCl",
+    "category": "Phản ứng tạo kết tủa",
+    "description": "Nhận biết muối clorua bằng bạc nitrat, xuất hiện kết tủa trắng.",
+    "equation": "AgNO3 + NaCl -> AgCl + NaNO3",
+    "available": true
+}
