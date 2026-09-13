@@ -5,4 +5,6 @@
     "description": "Kẽm tác dụng với axit clohiđric.",
     "equation": "Zn + 2HCl → ZnCl₂ + H₂",
     "available": true
-}
+}cd d:\hh
+"C:\Program Files\Git\cmd\git.exe" add .
+"C:\Program Files\Git\cmd\git.exe" commit -m "Initial project commit"
